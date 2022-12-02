@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ronak Munjapara</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronakmunjapara" alt="ronakmunjapara" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronakmunjapara" alt="ronakmunjapara" /></a> </p>
 
-- 🌱 I’m interested to **explore New technologies**
+- 🌱 I’m interested to **Explore New technologies**
 
 - 📫 How to reach me **munjapararonak1+Github@gmail.com**
 
