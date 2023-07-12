@@ -1,4 +1,4 @@
-![cover-thompson](https://github.com/ronakmunjapara/ronakmunjapara/assets/43374534/3d2fca9b-5023-475d-9bb2-c9e009bc7983)
+ ![cover-thompson](https://github.com/ronakmunjapara/ronakmunjapara/assets/43374534/3d2fca9b-5023-475d-9bb2-c9e009bc7983)
 <h1 align="center">Hi 👋, I'm Ronak Munjapara</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
