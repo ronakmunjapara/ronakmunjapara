@@ -1,10 +1,13 @@
  ![cover-thompson](https://github.com/ronakmunjapara/ronakmunjapara/assets/43374534/3d2fca9b-5023-475d-9bb2-c9e009bc7983)
 <h1 align="center">Hi 👋, I'm Ronak Munjapara</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-
+<div align="center">
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ronakmunjapara&color=blue">
 </a>
+ 
+</div>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronakmunjapara" alt="ronakmunjapara" /></a> </p>
 
 - 🌱 I’m interested to **Explore New technologies**
