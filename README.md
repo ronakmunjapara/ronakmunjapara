@@ -1,12 +1,12 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,47,100&height=200&section=header&text=Ronak%20Munjapara&fontSize=60&animation=fadeIn&desc=Senior%20Software%20Developer%20%7C%20.NET%20%C2%B7%20Angular%20%C2%B7%20AI&descAlignY=75&descSize=22" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,47,100&height=200&section=header&text=Ronak%20Munjapara&fontSize=60&animation=fadeIn&desc=Senior%20Software%20Engineer%20%7C%20.NET%20%C2%B7%20Angular%20%C2%B7%20AI&descAlignY=75&descSize=22" width="100%" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&random=true&width=700&lines=Senior+Software+Developer+%F0%9F%9A%80;.NET+Core+%7C+C%23+%7C+Angular+18+%7C+Azure;AI+%26+Cloud+Enthusiast+%F0%9F%A4%96;4.7%2B+Years+Enterprise+Engineering;Building+AI-Powered+Developer+Tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&random=true&width=700&lines=Senior+Software+Developer+%F0%9F%9A%80;.NET+Core+%7C+C%23+%7C+Angular+18+%7C+Azure;AI+%26+Cloud+Enthusiast+%F0%9F%A4%96;5%2B+Years+Enterprise+Engineering;Building+AI-Powered+Developer+Tools)](https://git.io/typing-svg)
 
 </div>
 
